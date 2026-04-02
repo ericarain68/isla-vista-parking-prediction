@@ -8,3 +8,6 @@ I developed a predictive model to estimate parking availability by time and loca
 - Spatial and temporal analysis of parking demand
 - Predictive modeling of occupancy patterns
 - Visualization of trends by time and location
+## Project Output
+The full project report and analysis can be viewed here:
+[View Project](./pstat131workfinal.html)
